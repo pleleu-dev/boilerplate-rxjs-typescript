@@ -1,6 +1,5 @@
 import React from "react";
 import { CharacterType } from "@world/types";
-import "@stores/characters";
 
 export const Card = ({
   id,
